@@ -4,4 +4,3 @@ dist
 *.pdf
 *.ttf
 lerna-debug.log
-lib
